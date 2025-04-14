@@ -57,6 +57,3 @@ Aquí se explican brevemente algunos de los conceptos más importantes en progra
 7. **Contribuciones**: Un recordatorio de que otros pueden contribuir al proyecto.
 
 8. **Licencia**: El tipo de licencia bajo la cual está publicado el repositorio (Licencia MIT en este caso).
-
-Este formato puede adaptarse según el tamaño y la complejidad del repositorio. ¡Espero que te sirva para tu proyecto! Si necesitas ajustes adicionales, no dudes en comentarlo.
-
