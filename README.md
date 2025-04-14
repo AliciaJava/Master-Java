@@ -39,21 +39,4 @@ Aquí se explican brevemente algunos de los conceptos más importantes en progra
    ```bash
    git clone https://github.com/tu-usuario/ejemplos-java.git
 
-   
-### Explicación de la estructura:
-
-1. **Introducción y Descripción**: Un breve resumen sobre lo que hace el repositorio, indicando que se trata de ejemplos de programación en Java, organizados por concepto (fundamentos, clases y objetos, estructuras de datos, etc.).
   
-2. **Estructura del Proyecto**: Explicación de cómo están organizados los ejemplos en el repositorio.
-
-3. **Ejemplos de Código**: Para cada ejemplo, se incluye el código fuente y una breve explicación de lo que hace. Esto ayudará a los usuarios a entender qué está sucediendo en cada fragmento de código.
-
-4. **Conceptos Clave**: Una lista de conceptos clave relacionados con la programación en Java que se abordan en los ejemplos.
-
-5. **Requisitos**: Lo que el usuario necesita para ejecutar los ejemplos, como el JDK y un editor de código o IDE.
-
-6. **Cómo ejecutar los ejemplos**: Instrucciones sobre cómo clonar el repositorio, compilar y ejecutar el código Java desde la línea de comandos o desde un IDE.
-
-7. **Contribuciones**: Un recordatorio de que otros pueden contribuir al proyecto.
-
-8. **Licencia**: El tipo de licencia bajo la cual está publicado el repositorio (Licencia MIT en este caso).
